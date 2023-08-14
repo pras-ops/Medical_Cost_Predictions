@@ -52,6 +52,8 @@ To get started with the project, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to submit a pull request.
+![Screenshot (97)](https://github.com/pras-ops/Medical_Cost_Predictions/assets/56476064/797db57b-e85f-4178-bc11-9852221b7d47)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
