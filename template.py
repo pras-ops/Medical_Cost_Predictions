@@ -18,7 +18,7 @@ list_of_files = [
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
-    "Dockerfile"
+    "Dockerfile",
     "requirements.txt",
     "setup.py",
     "Notebook/trial.ipynb",
